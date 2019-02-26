@@ -1,0 +1,25 @@
+{
+  "name": "manufacturing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j3e8/manufacturing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j3e8/manufacturing/issues"
+  },
+  "homepage": "https://github.com/j3e8/manufacturing#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
